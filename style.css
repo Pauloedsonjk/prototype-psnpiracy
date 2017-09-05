@@ -1,0 +1,9 @@
+body {
+    background-image: url("background1.jpg");
+	background-repeat: no-repeat;
+}
+p {
+	background-image: url("gradiente.jpg");
+	background-repeat: no-repeat;
+	
+}
